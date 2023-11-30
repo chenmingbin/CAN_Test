@@ -1,0 +1,5 @@
+协议：
+	https://m4l1qt5zuv.feishu.cn/file/FWg4b4V8AoF5MqxshhVcXyTLnSb
+	https://m4l1qt5zuv.feishu.cn/file/Zk2BbtQECoSzbtxcApQcJ09lnwC
+库：
+	https://docs.python.org/zh-cn/3.12/library/ctypes.html
